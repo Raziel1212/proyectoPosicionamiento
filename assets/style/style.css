@@ -1,0 +1,173 @@
+body {
+  background-color: #000000;
+}
+
+h1,
+h2,
+p,
+a {
+  font-family: "Raleway";
+  color: #ffffff;
+}
+
+.container1 .c1 h1 {
+  margin-top: 7px;
+  margin-left: 530px;
+  width: 221px;
+  height: 59px;
+  text-align: center;
+  letter-spacing: 0px;
+  opacity: 1;
+}
+
+.container1 .c2 {
+  top: 73px;
+  left: 0px;
+  width: 1280px;
+  height: 727px;
+  background: transparent url(../img/bg-header.jpg) 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.container2 {
+  display: flex;
+  justify-content: center;
+  top: 800px;
+  left: 0px;
+  width: 1280px;
+  height: 348px;
+}
+
+.container2 .c1 p {
+  top: 876px;
+  left: 150px;
+  width: 475px;
+  height: 197px;
+  font-size: 16px;
+  text-align: left;
+  letter-spacing: 0px;
+  opacity: 1;
+}
+
+.container2 .c2 img {
+  top: 845px;
+  left: 731px;
+  width: 399px;
+  height: 237px;
+  margin-right: 150px;
+  margin-top: 45px;
+  margin-bottom: 66px;
+}
+
+.container3 {
+  background-color: #1e1a13;
+  top: 1141px;
+  left: 0px;
+  width: 1280px;
+  height: 348px;
+}
+
+.container3 h2 {
+  top: 1216px;
+  left: 464px;
+  width: 356px;
+  height: 47px;
+  margin-left: 463.5px;
+  text-align: center;
+  font: normal normal medium 40px/47px;
+  letter-spacing: 0px;
+  opacity: 1;
+}
+
+.container3 .iconos {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  top: 1263px;
+  left: 0px;
+  width: 1280px;
+  height: 250px;
+}
+
+.container3 .iconos .ico1 {
+  top: 1333px;
+  left: 326px;
+  width: 57px;
+  height: 37px;
+  color: #ffffff;
+}
+
+.container3 .iconos .ico2 {
+  top: 1313px;
+  left: 620px;
+  width: 39px;
+  height: 56px;
+  color: #ffffff;
+}
+
+.container3 .iconos .ico3 {
+  top: 1320px;
+  left: 915px;
+  width: 41px;
+  height: 49px;
+  color: #ffffff;
+}
+
+#textIco {
+  width: 108px;
+  height: 29px;
+  font-family: "Raleway";
+  font-size: 24px;
+  letter-spacing: 0;
+}
+
+.container4 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  top: 1488px;
+  left: 0px;
+  width: 1280px;
+  height: 348px;
+}
+
+.container4 .iguana1 {
+  background: transparent url(../img/iguana-2.jpg) 0% 0% no-repeat padding-box;
+  top: 1561px;
+  left: 814px;
+}
+
+.container4 .iguana2 {
+  background: transparent url(../img/iguana-3.jpg) 0% 0% no-repeat padding-box;
+  top: 1561px;
+  left: 482px;
+}
+
+.container4 .iguana3 {
+  background: transparent url(../img/iguana-4.jpg) 0% 0% no-repeat padding-box;
+  top: 1561px;
+  left: 814px;
+}
+
+#styleIguana {
+  width: 316px;
+  height: 202px;
+  opacity: 1;
+  background-size: cover;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  top: 1835px;
+  left: 0px;
+  width: 1280px;
+  height: 102px;
+  background-color: #1e1a13;
+  text-align: center;
+}
+
+footer a {
+  margin-left: 299px;
+  text-decoration: none;
+}
